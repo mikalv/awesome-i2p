@@ -14,8 +14,11 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
     - [I2Pd (C++)](#i2pd)
 - [Projects using I2P](#projects-using-i2p)
 - [Tools](#tools)
+- [Plugins](#plugins)
 - [Self Hosted](#self-hosted)
 - [Libraries](#libraries)
+- [Automation](#automation)
+- [Guides](#guides)
 - [Unfinished implementations](#unfinished-implementations)
 - [Publications](#publications)
 
@@ -41,6 +44,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [I2P-Bote](https://i2pbote.xyz/) - I2P-Bote is a plugin for I2P that allows users to send and receive emails while preserving privacy. It does not need a mail server because emails are stored in a distributed hash table. They are automatically encrypted and digitally signed, which ensures no one but the intended recipient can read the email, and third parties cannot forge them.
 * [I2P-Bote Android](https://play.google.com/store/apps/details?id=i2p.bote.android) - Android release of I2P-Bote. (Google Play)
 * [Syndie](https://github.com/i2p/i2p.syndie) - Syndie is an open source system for operating distributed forums, offering a secure and consistent interface to various anonymous and non-anonymous content networks.
+* [i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - i2pd browser bundle.
 * [Anoncoin](https://anoncoin.net/) - The Anoncoin project.
 * [Monero](https://getmonero.org/) - Monero is a secure, private, and untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
 * [GOSTCoin](https://github.com/GOSTSec/gostcoin) - GOSTCoin (GST) is a digital currency based on blockchain technology. It allows instant payments worldwide with focus on privacy and security of its users.
@@ -51,6 +55,15 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2p-tools](https://github.com/MDrollette/i2p-tools) - This tool provides a secure and efficient reseed server for the I2P network. There are several utility commands to create, sign, and validate SU3 files.
 * [I2PMonitor](https://github.com/miximka/I2PMonitor) - I2P monitor and control application for Mac OS X.
 * [darkweb-everywhere](https://github.com/chris-barry/darkweb-everywhere) - HTTPS Everywhere rulesets for hidden services and eepsites.
+* [i2p-tools](https://github.com/majestrate/i2p-tools) - Assorted I2P tools and scripts.
+* [i2pberry](https://github.com/m6urns/i2pberry) - I2Pberry - I2P for the Raspberry Pi.
+* [i2pd-tools](https://github.com/PurpleI2P/i2pd-tools) - Some useful tools for I2P.
+* [pyreseeder](https://github.com/PurpleI2P/pyseeder) - Reseed data managment tools for I2P.
+
+## Plugins
+
+* [i2pd-webui](https://github.com/l-n-s/i2pd-webui) - Fancy i2pd web user interface.
+
 
 ## Self Hosted
 
@@ -59,6 +72,13 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2spy](https://github.com/chris-barry/i2spy) - Takes stats from many i2p nodes, and holds them in a centralized location.
 * [i2pjump](https://github.com/robertfoss/i2pjump) - I2P jump service. A sort of slave DNS server for I2P.
 
+## Docker images
+
+* [meeh/i2pd](https://hub.docker.com/r/meeh/i2pd/) - Prebuilt i2pd docker image.
+* [meeh/i2p.i2p](https://hub.docker.com/r/meeh/i2p.i2p/) - Prebuilt i2p docker image.
+* [i2p-docker](https://github.com/hkparker/i2p-docker) - Java I2P router in Docker.
+* [i2pd-docker](https://github.com/hexaedron/i2pd-docker) - Dockefile and some scripts to run i2pd in a container.
+
 
 ## Libraries
 
@@ -66,11 +86,23 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [libsam3](https://github.com/i2p/libsam3) - C SAMv3 library.
 * [txi2p](https://github.com/str4d/txi2p) - I2P bindings for Twisted.
 * [i2p.rb](https://github.com/dryruby/i2p.rb) - I2P.rb is a Ruby library for interacting with the I2P anonymity network (last update 2010).
+* [i2p.socket](https://github.com/majestrate/i2p.socket) - drop in python socket module that uses i2p.
+
+## Automation
+
+* [nginx-i2p Cookbook](https://github.com/i2phosts/cookbook-nginx-i2p) - This Chef cookbook contains i2p-specifig config for logging i2p-desthashes.
+* [i2phosts](https://github.com/tailot/i2phosts) - Automatic I2P Hosts synchronization I2P to Internet.
+
+## Guides
+
+* [tutorial-darknet](https://github.com/ReK2Fernandez/tutorial-darknet) - Follow up files/scripts for i2pd+vpn+ubuntu remote i2p router setup.
+
 
 ## Unfinished implementations
 
 * [go-i2p](https://github.com/hkparker/go-i2p) - A pure Go implementation of the I2P router.
 * [i2p-cs](https://github.com/PeterZander/i2p-cs) - I2P router in C#.
+* [i2pcpp](https://github.com/majestrate/i2pcpp) - i2p c++ implementation.
 
 ## Publications
 
