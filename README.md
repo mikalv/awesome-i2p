@@ -36,6 +36,9 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 
 * [I2P-Bote](https://i2pbote.xyz/) - I2P-Bote is a plugin for I2P that allows users to send and receive emails while preserving privacy. It does not need a mail server because emails are stored in a distributed hash table. They are automatically encrypted and digitally signed, which ensures no one but the intended recipient can read the email, and third parties cannot forge them.
 * [I2P-Bote Android](https://play.google.com/store/apps/details?id=i2p.bote.android) - Android release of I2P-Bote. (Google Play)
+* [Syndie](https://github.com/i2p/i2p.syndie) - Syndie is an open source system for operating distributed forums, offering a secure and consistent interface to various anonymous and non-anonymous content networks.
+* [Anoncoin](https://anoncoin.net/) - The Anoncoin project.
+* [Monero](https://getmonero.org/) - Monero is a secure, private, and untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
 
 ## Tools
 
