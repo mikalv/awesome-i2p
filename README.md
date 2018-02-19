@@ -64,6 +64,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [pyreseeder](https://github.com/PurpleI2P/pyseeder) - Reseed data managment tools for I2P.
 * [transi2p](https://github.com/rbif/transi2p) - Transparent proxying for I2P and forwarding other addresses to Tor or clearnet.
 * [fl](https://github.com/opennota/fl) - Reverse proxy to Flibusta via Tor or I2P.
+* [si-i2p-plugin](https://github.com/eyedeekay/si-i2p-plugin) - An experimental approach to provide a destination-isolating mechanism for http-over-i2p.
 
 ## Plugins
 
@@ -78,6 +79,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2pjump](https://github.com/robertfoss/i2pjump) - I2P jump service. A sort of slave DNS server for I2P.
 * [i2p.to-web](https://github.com/hilbix/i2p.to-web) - Web portion of i2p.to, an I2P inProxy.
 * [i2p-reseeder](https://github.com/torbjo/i2p-reseeder) - I2P Reseeder written in Python (WSGI).
+* [MaladaN-Messenger-Server](https://github.com/MaladaN/MaladaN-Messenger-Server) - MaladaN Messenger Server end, for messaging using the signal protocol through I2P.
 
 ## Docker images
 
@@ -97,6 +99,9 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2p.socket](https://github.com/majestrate/i2p.socket) - drop in python socket module that uses i2p.
 * [rust-i2p](https://github.com/stallmanifold/rust-i2p) - This repository is a pure Rust implementation of the I2P protocol stack.
 * [goSam](https://github.com/cryptix/goSam) - A go library for using the I2P Simple Anonymous Messaging (SAM version 3.0) bridge.
+* [i2pdotnet](https://github.com/SamuelFisher/i2pdotnet) - .NET library for using the I2P Simple Anonymous Messaging (SAM v3.0) bridge.
+* [haskell-network-anonymous-i2p](https://github.com/solatis/haskell-network-anonymous-i2p) - Haskell API for I2P anonymous networking.
+* [libtorrent-i2p](https://github.com/l-n-s/libtorrent-i2p) - libtorrent modified to download torrents anonymously.
 
 ## Automation
 
@@ -116,6 +121,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2p-cs](https://github.com/PeterZander/i2p-cs) - I2P router in C#.
 * [i2pcpp](https://github.com/majestrate/i2pcpp) - i2p c++ implementation.
 * [i2p-lite](https://github.com/i2p-lite/i2p-lite) - i2p router implementation in C11.
+* [ire](https://github.com/str4d/ire) - I2P router implementation in Rust.
 
 ## Publications
 
