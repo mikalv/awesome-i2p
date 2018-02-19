@@ -59,8 +59,19 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 
 ## Publications
 
-* [Monitoring the I2P network](http://hal.inria.fr/inria-00632259/PDF/TMA2012-LNCS.pdf)
 * [Peer Profiling and Selection in the I2P Anonymous Network](https://geti2p.net/_static/pdf/I2P-PET-CON-2009.1.pdf)
 * [Anonymity Techniques - Usability Tests of Major Anonymity Networks](https://people.torproject.org/~karsten/petcon-proceedings-2009.1.pdf)
 * [Darknets and hidden servers: Identifying the true IP/network identity of I2P service hosts](http://www.irongeek.com/downloads/Identifying%20the%20true%20IP%20of%20I2P%20service%20hosts.pdf)
+* [Privacy-Implications of Performance-Based Peer Selection by Onion-Routers: A Real-World Case Study using I2P](https://gnunet.org/sites/default/files/herrmann2011mt.pdf)
+* [I2P Usability vs. Tor Usability A Bandwidth and Latency Comparison](http://userpage.fu-berlin.de/~semu/docs/2011_seminar_ehlert_i2p.pdf)
+* [Monitoring the I2P network](http://hal.inria.fr/inria-00632259/PDF/TMA2012-LNCS.pdf)
+* [I2P's Usage Characterization](https://hal.inria.fr/hal-00744902/PDF/TMA2012-LNCS.pdf)
+* [A survey on solutions and main free tools for privacy enhancing Web communications](https://www.freehaven.net/anonbib/cache/Ruiz-Martinez_2012.pdf)
+* [A Bird's Eye View on the I2P Anonymous File-sharing Environment](http://hal.inria.fr/hal-00744919/PDF/A_Birda_s_Eye_View_on_the_I2P_Anonymous_0AFile-sharing_Environment_0A.pdf)
+* [Improving Content Availability in the I2P Anonymous File-Sharing Environment](http://hal.inria.fr/hal-00744922/PDF/Improving_Content_Availability_in_the_I2P_0AAnonymous_File-Sharing_Environment_0A.pdf)
+* [Practical Attacks Against the I2P Network](https://wwwcip.informatik.uni-erlangen.de/~spjsschl/i2p.pdf)
+
+
+
+
 
