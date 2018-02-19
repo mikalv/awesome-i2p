@@ -15,6 +15,8 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 - [Projects using I2P](#projects-using-i2p)
 - [Tools](#tools)
 - [Libraries](#libraries)
+- [Unfinished implementations](#unfinished-implementations)
+- [Publications](#publications)
 
 
 ## The I2P Project
@@ -49,3 +51,16 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 
 * [node-i2p](https://github.com/redhog/node-i2p) - NodeJS api for communicating over i2p (SAMv3 client).
 * [libsam3](https://github.com/i2p/libsam3) - C SAMv3 library.
+* [txi2p](https://github.com/str4d/txi2p) - I2P bindings for Twisted.
+
+## Unfinished implementations
+
+* [go-i2p](https://github.com/hkparker/go-i2p) - A pure Go implementation of the I2P router.
+
+## Publications
+
+* [Monitoring the I2P network](http://hal.inria.fr/inria-00632259/PDF/TMA2012-LNCS.pdf)
+* [Peer Profiling and Selection in the I2P Anonymous Network](https://geti2p.net/_static/pdf/I2P-PET-CON-2009.1.pdf)
+* [Anonymity Techniques - Usability Tests of Major Anonymity Networks](https://people.torproject.org/~karsten/petcon-proceedings-2009.1.pdf)
+* [Darknets and hidden servers: Identifying the true IP/network identity of I2P service hosts](http://www.irongeek.com/downloads/Identifying%20the%20true%20IP%20of%20I2P%20service%20hosts.pdf)
+
