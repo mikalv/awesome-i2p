@@ -12,6 +12,10 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 - [Implementations](#implementations)
     - [I2P (Java)](#i2p)
     - [I2Pd (C++)](#i2pd)
+- [Projects using I2P](#projects-using-i2p)
+- [Tools](#tools)
+- [Libraries](#libraries)
+
 
 ## The I2P Project
 
@@ -22,9 +26,22 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 
 ### I2P
 [I2P](https://github.com/i2p/i2p.i2p) - The first implementation. Written in Java.
+[I2P Android](https://play.google.com/store/apps/details?id=net.i2p.android) - Android release of the I2P router. (Google play)
+[I2P Android](https://f-droid.org/packages/net.i2p.android.router/) - Android release of the I2P router. (F-Droid)
 
 ### I2Pd
 [I2Pd](https://github.com/PurpleI2P/i2pd) - A C++ implementation of a I2P router.
 
+## Projects using I2P
 
+* [I2P-Bote](https://i2pbote.xyz/) - I2P-Bote is a plugin for I2P that allows users to send and receive emails while preserving privacy. It does not need a mail server because emails are stored in a distributed hash table. They are automatically encrypted and digitally signed, which ensures no one but the intended recipient can read the email, and third parties cannot forge them.
+* [I2P-Bote Android](https://play.google.com/store/apps/details?id=i2p.bote.android) - Android release of I2P-Bote. (Google Play)
 
+## Tools
+
+* [i2p-tools](https://github.com/MDrollette/i2p-tools) - This tool provides a secure and efficient reseed server for the I2P network. There are several utility commands to create, sign, and validate SU3 files.
+
+## Libraries
+
+* [node-i2p](https://github.com/redhog/node-i2p) - NodeJS api for communicating over i2p (SAMv3 client).
+* [libsam3](https://github.com/i2p/libsam3) - C SAMv3 library.
