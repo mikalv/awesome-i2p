@@ -51,6 +51,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [Transmission-I2P](https://github.com/l-n-s/transmission-i2p) - Anonymous torrent client Transmission-I2P.
 * [MaladaN-Messenger-Client](https://github.com/MaladaN/MaladaN-Messenger-Client) - An end to end encrypted Messenger that uses the signal protocol over the I2P network.
 * [i2pchat](https://github.com/hypnosis-i2p/i2pchat) - I2PChat. Previously I2P Qt Messenger.
+* [cliqueclique](https://github.com/redhog/cliqueclique) - p2p forum on top of i2p.
 
 
 ## Tools
@@ -122,6 +123,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2pcpp](https://github.com/majestrate/i2pcpp) - i2p c++ implementation.
 * [i2p-lite](https://github.com/i2p-lite/i2p-lite) - i2p router implementation in C11.
 * [ire](https://github.com/str4d/ire) - I2P router implementation in Rust.
+* [i2pd-rs](https://github.com/jacklund/i2pd-rs) - I2P Daemon written in Rust.
 
 ## Publications
 
