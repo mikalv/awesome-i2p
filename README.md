@@ -50,6 +50,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [GOSTCoin](https://github.com/GOSTSec/gostcoin) - GOSTCoin (GST) is a digital currency based on blockchain technology. It allows instant payments worldwide with focus on privacy and security of its users.
 * [Transmission-I2P](https://github.com/l-n-s/transmission-i2p) - Anonymous torrent client Transmission-I2P.
 * [MaladaN-Messenger-Client](https://github.com/MaladaN/MaladaN-Messenger-Client) - An end to end encrypted Messenger that uses the signal protocol over the I2P network.
+* [i2pchat](https://github.com/hypnosis-i2p/i2pchat) - I2PChat. Previously I2P Qt Messenger.
 
 
 ## Tools
