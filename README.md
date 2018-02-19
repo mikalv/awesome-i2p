@@ -42,20 +42,25 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [Syndie](https://github.com/i2p/i2p.syndie) - Syndie is an open source system for operating distributed forums, offering a secure and consistent interface to various anonymous and non-anonymous content networks.
 * [Anoncoin](https://anoncoin.net/) - The Anoncoin project.
 * [Monero](https://getmonero.org/) - Monero is a secure, private, and untraceable cryptocurrency. It is open-source and accessible to all. With Monero, you are your own bank. Only you control and are responsible for your funds. Your accounts and transactions are kept private from prying eyes.
+* [GOSTCoin](https://github.com/GOSTSec/gostcoin) - GOSTCoin (GST) is a digital currency based on blockchain technology. It allows instant payments worldwide with focus on privacy and security of its users.
+* [Transmission-I2P](https://github.com/l-n-s/transmission-i2p) - Anonymous torrent client Transmission-I2P.
 
 ## Tools
 
 * [i2p-tools](https://github.com/MDrollette/i2p-tools) - This tool provides a secure and efficient reseed server for the I2P network. There are several utility commands to create, sign, and validate SU3 files.
+* [I2PMonitor](https://github.com/miximka/I2PMonitor) - I2P monitor and control application for Mac OS X.
 
 ## Libraries
 
 * [node-i2p](https://github.com/redhog/node-i2p) - NodeJS api for communicating over i2p (SAMv3 client).
 * [libsam3](https://github.com/i2p/libsam3) - C SAMv3 library.
 * [txi2p](https://github.com/str4d/txi2p) - I2P bindings for Twisted.
+* [i2p.rb](https://github.com/dryruby/i2p.rb) - I2P.rb is a Ruby library for interacting with the I2P anonymity network (last update 2010).
 
 ## Unfinished implementations
 
 * [go-i2p](https://github.com/hkparker/go-i2p) - A pure Go implementation of the I2P router.
+* [i2p-cs](https://github.com/PeterZander/i2p-cs) - I2P router in C#.
 
 ## Publications
 
