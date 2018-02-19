@@ -61,6 +61,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2pberry](https://github.com/m6urns/i2pberry) - I2Pberry - I2P for the Raspberry Pi.
 * [i2pd-tools](https://github.com/PurpleI2P/i2pd-tools) - Some useful tools for I2P.
 * [pyreseeder](https://github.com/PurpleI2P/pyseeder) - Reseed data managment tools for I2P.
+* [transi2p](https://github.com/rbif/transi2p) - Transparent proxying for I2P and forwarding other addresses to Tor or clearnet.
 
 ## Plugins
 
