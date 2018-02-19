@@ -62,6 +62,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2pd-tools](https://github.com/PurpleI2P/i2pd-tools) - Some useful tools for I2P.
 * [pyreseeder](https://github.com/PurpleI2P/pyseeder) - Reseed data managment tools for I2P.
 * [transi2p](https://github.com/rbif/transi2p) - Transparent proxying for I2P and forwarding other addresses to Tor or clearnet.
+* [fl](https://github.com/opennota/fl) - Reverse proxy to Flibusta via Tor or I2P.
 
 ## Plugins
 
@@ -75,6 +76,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2spy](https://github.com/chris-barry/i2spy) - Takes stats from many i2p nodes, and holds them in a centralized location.
 * [i2pjump](https://github.com/robertfoss/i2pjump) - I2P jump service. A sort of slave DNS server for I2P.
 * [i2p.to-web](https://github.com/hilbix/i2p.to-web) - Web portion of i2p.to, an I2P inProxy.
+* [i2p-reseeder](https://github.com/torbjo/i2p-reseeder) - I2P Reseeder written in Python (WSGI).
 
 ## Docker images
 
@@ -92,6 +94,8 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [txi2p](https://github.com/str4d/txi2p) - I2P bindings for Twisted.
 * [i2p.rb](https://github.com/dryruby/i2p.rb) - I2P.rb is a Ruby library for interacting with the I2P anonymity network (last update 2010).
 * [i2p.socket](https://github.com/majestrate/i2p.socket) - drop in python socket module that uses i2p.
+* [rust-i2p](https://github.com/stallmanifold/rust-i2p) - This repository is a pure Rust implementation of the I2P protocol stack.
+* [goSam](https://github.com/cryptix/goSam) - A go library for using the I2P Simple Anonymous Messaging (SAM version 3.0) bridge.
 
 ## Automation
 
