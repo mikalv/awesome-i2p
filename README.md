@@ -50,6 +50,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2p-tools](https://github.com/MDrollette/i2p-tools) - This tool provides a secure and efficient reseed server for the I2P network. There are several utility commands to create, sign, and validate SU3 files.
 * [I2PMonitor](https://github.com/miximka/I2PMonitor) - I2P monitor and control application for Mac OS X.
 * [i2spy](https://github.com/chris-barry/i2spy) - Takes stats from many i2p nodes, and holds them in a centralized location.
+* [i2pjump](https://github.com/robertfoss/i2pjump) - I2P jump service. A sort of slave DNS server for I2P.
 
 ## Libraries
 
