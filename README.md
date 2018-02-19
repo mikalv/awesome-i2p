@@ -74,6 +74,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [py-i2phosts](https://github.com/i2phosts/py-i2phosts) - py-i2phosts is a hostnames registration engine for I2P.
 * [i2spy](https://github.com/chris-barry/i2spy) - Takes stats from many i2p nodes, and holds them in a centralized location.
 * [i2pjump](https://github.com/robertfoss/i2pjump) - I2P jump service. A sort of slave DNS server for I2P.
+* [i2p.to-web](https://github.com/hilbix/i2p.to-web) - Web portion of i2p.to, an I2P inProxy.
 
 ## Docker images
 
@@ -97,6 +98,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [nginx-i2p Cookbook](https://github.com/i2phosts/cookbook-nginx-i2p) - This Chef cookbook contains i2p-specifig config for logging i2p-desthashes.
 * [i2phosts](https://github.com/tailot/i2phosts) - Automatic I2P Hosts synchronization I2P to Internet.
 * [i2pbootstrap](https://github.com/TheTinHat/i2pbootstrap) - I2P Bootstrap script to automate much of the router setup process on remote servers.
+* [anonym8](https://github.com/HiroshiManRise/anonym8) - Sets Transparent proxy tunnel through Tor, I2P, Privoxy, Polipo and modify DNS; Include Anonymizing Relay Monitor (arm), macchanger and wipe (Cleans ram/cache & swap-space) features, ID spoofing has never been so easy.
 
 ## Guides
 
@@ -108,6 +110,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [go-i2p](https://github.com/hkparker/go-i2p) - A pure Go implementation of the I2P router.
 * [i2p-cs](https://github.com/PeterZander/i2p-cs) - I2P router in C#.
 * [i2pcpp](https://github.com/majestrate/i2pcpp) - i2p c++ implementation.
+* [i2p-lite](https://github.com/i2p-lite/i2p-lite) - i2p router implementation in C11.
 
 ## Publications
 
