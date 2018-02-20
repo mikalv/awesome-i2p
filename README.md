@@ -1,5 +1,7 @@
 # Awesome I2P
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of awesome I2P implementations, libraries, resources, projects, and shiny things. Inspired by [awesome-tor](https://github.com/ajvb/awesome-tor) and [awesome-cpp](https://github.com/fffaraz/awesome-cpp) and other awesome lists.
 
 ### What is I2P?
