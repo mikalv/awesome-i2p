@@ -97,6 +97,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [node-i2p](https://github.com/redhog/node-i2p) - NodeJS api for communicating over i2p (SAMv3 client).
 * [libsam3](https://github.com/i2p/libsam3) - C SAMv3 library.
 * [i2psam](https://github.com/i2p/i2psam) - C++ SAMv3 library.
+* [bobcpp](https://gitlab.com/rszibele/bobcpp) - C++ BOB library.
 * [txi2p](https://github.com/str4d/txi2p) - I2P bindings for Twisted.
 * [i2plib](https://github.com/l-n-s/i2plib) - Python bindings for SAMv3.
 * [i2p.rb](https://github.com/dryruby/i2p.rb) - I2P.rb is a Ruby library for interacting with the I2P anonymity network (last update 2010).
