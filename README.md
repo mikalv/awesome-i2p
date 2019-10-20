@@ -107,6 +107,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [i2pdotnet](https://github.com/SamuelFisher/i2pdotnet) - .NET library for using the I2P Simple Anonymous Messaging (SAM v3.0) bridge.
 * [haskell-network-anonymous-i2p](https://github.com/solatis/haskell-network-anonymous-i2p) - Haskell API for I2P anonymous networking.
 * [libtorrent-i2p](https://github.com/l-n-s/libtorrent-i2p) - libtorrent modified to download torrents anonymously.
+* [php-sam](https://github.com/theimpossibleastronaut/php-sam) - Basic SAMv3 implementation in PHP
 
 ## Automation
 
