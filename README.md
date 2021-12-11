@@ -89,7 +89,7 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [meeh/i2pd](https://hub.docker.com/r/meeh/i2pd/) - Prebuilt i2pd docker image.
 * [meeh/i2p.i2p](https://hub.docker.com/r/meeh/i2p.i2p/) - Prebuilt i2p docker image.
 * [i2p-docker](https://github.com/hkparker/i2p-docker) - Java I2P router in Docker.
-* [i2pd-docker](https://github.com/hexaedron/i2pd-docker) - Dockefile and some scripts to run i2pd in a container.
+* [i2pd-docker](https://github.com/hexaedron/i2pd-docker) - Dockerfile and some scripts to run i2pd in a container.
 
 
 ## Libraries
