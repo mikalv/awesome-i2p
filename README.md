@@ -42,8 +42,9 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 ### I2P
 
 * [I2P](https://github.com/i2p/i2p.i2p) - The first implementation. Written in Java.
-* [I2P Android](https://play.google.com/store/apps/details?id=net.i2p.android) - Android release of the I2P router. (Google play)
-* [I2P Android](https://f-droid.org/packages/net.i2p.android.router/) - Android release of the I2P router. (F-Droid)
+* [I2P Android](https://play.google.com/store/apps/details?id=net.i2p.android) - Android release of the I2P router. (Google play).
+* [I2P Android](https://f-droid.org/packages/net.i2p.android.router/) - Android release of the I2P router. (F-Droid).
+* [I2P+](https://gitlab.com/i2pplus/I2P.Plus/) - I2P+ is a soft-fork of the Java I2P Anonymizing Network Layer.
 
 ### I2Pd
 
@@ -52,12 +53,12 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 
 ### Unfinished routers
 
-* [go-i2p](https://github.com/hkparker/go-i2p) - A pure Go implementation of the I2P router.
-* [i2p-cs](https://github.com/PeterZander/i2p-cs) - I2P router in C#.
-* [i2pcpp](https://github.com/majestrate/i2pcpp) - i2p c++ implementation.
-* [i2p-lite](https://github.com/i2p-lite/i2p-lite) - i2p router implementation in C11.
-* [i2pd-rs](https://github.com/jacklund/i2pd-rs) - I2P Daemon written in Rust.
-* [ire](https://github.com/str4d/ire) - I2P router implementation in Rust.
+* [go-i2p](https://github.com/hkparker/go-i2p) - ![GitHub last commit](https://img.shields.io/github/last-commit/hkparker/go-i2p) A pure Go implementation of the I2P router.
+* [i2p-cs](https://github.com/PeterZander/i2p-cs) - ![GitHub last commit](https://img.shields.io/github/last-commit/PeterZander/i2p-cs) I2P router in C#.
+* [i2pcpp](https://github.com/majestrate/i2pcpp) - ![GitHub last commit](https://img.shields.io/github/last-commit/majestrate/i2pcpp) i2p c++ implementation.
+* [i2p-lite](https://github.com/i2p-lite/i2p-lite) - ![GitHub last commit](https://img.shields.io/github/last-commit/i2p-lite/i2p-lite) i2p router implementation in C11.
+* [i2pd-rs](https://github.com/jacklund/i2pd-rs) - ![GitHub last commit](https://img.shields.io/github/last-commit/jacklund/i2pd-rs) I2P Daemon written in Rust.
+* [ire](https://github.com/str4d/ire) - ![GitHub last commit](https://img.shields.io/github/last-commit/str4d/ire) I2P router implementation in Rust.
 
 ## Docker images
 
