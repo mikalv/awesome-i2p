@@ -54,6 +54,8 @@ I2P is used by many people who care about their privacy: activists, oppressed pe
 * [MaladaN-Messenger-Client](https://github.com/MaladaN/MaladaN-Messenger-Client) - An end to end encrypted Messenger that uses the signal protocol over the I2P network.
 * [i2pchat](https://github.com/hypnosis-i2p/i2pchat) - I2PChat. Previously I2P Qt Messenger.
 * [cliqueclique](https://github.com/redhog/cliqueclique) - p2p forum on top of i2p.
+* [qBitTorrent](https://www.qbittorrent.org/) BitTorrent client written in C++. Supports I2P with external router since 4.6.0
+* [BiglyBT](https://www.biglybt.com/) foremy Vuze and Azerus. Bittorent client written in in Java supports I2P with internal or external router via a plugin.
 
 
 ## Tools
