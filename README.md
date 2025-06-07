@@ -168,6 +168,7 @@
 * [php-sam](https://github.com/theimpossibleastronaut/php-sam) - Basic SAMv3 implementation in PHP.
 * [solitude](https://github.com/syvita/solitude) - I2P SAMv3 library in Rust (WIP).
 * [txi2p](https://github.com/str4d/txi2p) - I2P bindings for Twisted. SAM and BOB.
+* [libtorrent-rasterbar](https://github.com/arvidn/libtorrent) - libtorrent is a popular C++ BitTorrent library that has support for I2P.
 
 ### Other
 
