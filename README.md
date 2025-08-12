@@ -138,7 +138,7 @@
 * [i2pdbrowser](https://github.com/PurpleI2P/i2pdbrowser) - I2Pd browser bundle.
 * [i2pjump](https://github.com/robertfoss/i2pjump) - I2P jump service. A sort of slave DNS server for I2P.
 * [py-i2phosts](https://github.com/i2phosts/py-i2phosts) - py-i2phosts is a hostnames registration engine for I2P.
-
+* [specter](https://github.com/SpecterBrowser/specter) - Easy to use secure I2Pd browser
 ## Libraries
 
 ### BOB
